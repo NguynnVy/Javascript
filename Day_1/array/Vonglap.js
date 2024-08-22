@@ -40,7 +40,7 @@ console.log(`--------map(callback)--------`);
 /* 
     - trả về 1 mảng mới chính là return trong callback
     - số lượng phần tử của mảng mới bằng số lượng phần tử của mảng ban đầu
-    - sử dụng để giải quyết các bài toán về render dữ liệu lênt trên giao diện
+    - sử dụng để giải quyết các bài toán về render dữ liệu lên trên giao diện
 */
 let newArray = users.map((user, index) => {
     console.log(user, index);
