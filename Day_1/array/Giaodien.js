@@ -1,4 +1,3 @@
-// Bài tập trên lớp: thực hành giao diện sau
 
 let arrContent = [
     {
