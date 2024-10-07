@@ -174,8 +174,7 @@ if (indexMatch !== -1) {
   console.log("không có sản phẩm");
   // logic
 }
-// làm bài tập 
-// ai xung phong
+
 
 // 5. flatMap( callback ) trải mảng => trả về 1 list (JSON)
 let numbers = [1, 2, 3, [2, 4], [7, 10], [12, 16]];
