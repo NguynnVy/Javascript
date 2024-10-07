@@ -1,4 +1,3 @@
-// chỉnh file
 let movies = [
     {
       "id": 1,
